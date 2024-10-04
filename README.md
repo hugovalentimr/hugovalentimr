@@ -32,8 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="30"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="30"/>       
 </div>
-
-                    
+<br>                  
 
   🌱 Studying</b></p>
 <div>
