@@ -57,8 +57,8 @@
 <br>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=hugovalentimr&show_icons=true&theme=dracula" width="278">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovalentimr&theme=dracula&layout=compact" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugovalentimr&show_icons=true&theme=dracula" width="335">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovalentimr&theme=dracula&layout=compact&langs_count=16" width="300">
 </div>
 
 <br>
